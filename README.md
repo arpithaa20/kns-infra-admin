@@ -59,5 +59,4 @@ Examples:
 - Maintain separate slices for API operations.
 - Use SCSS for styling.
 - Avoid unnecessary abstractions.
-- Keep components reusable and maintainable.
 - Follow consistent coding conventions.
